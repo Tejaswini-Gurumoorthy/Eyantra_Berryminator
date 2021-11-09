@@ -1,4 +1,3 @@
-from typing import Counter
 import numpy as np
 import cv2
 
